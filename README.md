@@ -1,6 +1,6 @@
 ### Olá mundo! eu sou o Samuel Modesto, Engenheiro de Software 👋.
 
-- 🔭 MOMENTO ATUAL: No momento estou trabalhando em Java com Spring Framework e micro-serviços.
+- 🔭 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
 - 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com o objetivo de melhorar a maturidade dos meus projetos.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
