@@ -4,7 +4,7 @@
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
 - 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com o objetivo de melhorar a maturidade dos meus projetos.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
-- ⚡ FATO ENGRAÇADO: Eu gosto de programar comendo batatas.
+- ⚡ UM FATO : Eu gosto de programar tomando chimarrão.
 
 <div>
   <a href="https://github.com/SamuelModesto">
