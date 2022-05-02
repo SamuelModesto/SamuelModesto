@@ -2,7 +2,7 @@
 
 - 🔭 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
-- 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com o objetivo de melhorar a maturidade dos meus projetos.
+- 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços e Flutter, um framework incrível para criação de aplicativos mobile.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
 - ⚡ UM FATO : Eu gosto de programar tomando chimarrão.
 
