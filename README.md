@@ -1,14 +1,20 @@
 
 
 <h1 align="center">
-   Olá mundo!<img src='./assets/Gifs Perfil/wave.gif' height='26' alt='there'> eu sou o Samuel Modesto, Engenheiro de Software.
+   Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'> Eu sou o Samuel Modesto, um engenheiro de software brasileiro.
 </h1>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/dev-working_rounded.gif" alt="working developer">
+</p>
+
 
 - 🚩 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
 - 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com Java (Spring Framework) e Python  além  de  brincar com Flutter na horas vagas para me divertir, um framework realmente incrível para criação de aplicativos mobile.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
 - 🎯 UM OBJETIVO: Fazer 1000 contribuições no github em 2022.
+
+
 
 <div>
   <a href="https://github.com/SamuelModesto">
