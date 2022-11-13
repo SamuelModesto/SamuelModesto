@@ -1,8 +1,8 @@
-### Olá mundo! eu sou o Samuel Modesto, Engenheiro de Software 👋.
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
-</p>
+
+<h1 align="center">
+   Olá mundo!<img src='./assets/Gifs Perfil/wave.gif' height='26' alt='there'> eu sou o Samuel Modesto, Engenheiro de Software.
+</h1>
 
 - 🚩 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
