@@ -1,12 +1,20 @@
 
 
 <h1 align="center">
-   Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'> Eu sou o Samuel Modesto, um engenheiro de software brasileiro.
+   Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'> Eu sou o Sam, um engenheiro de software brasileiro.
 </h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/dev-working_rounded.gif" alt="working developer">
 </p>
-
+<p align="center">
+   <kbd>
+  <a href="https://twitter.com/SamuelMod3sto"><img src="https://img.shields.io/badge/-@SamuelMod3sto-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://profile.codersrank.io/user/samuelmodesto"><img src="https://img.shields.io/badge/-Samuel Modesto-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
+  <a href="https://github.com/SamuelModesto"><img src="https://img.shields.io/badge/-Sam-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/Disastrous_Apple4941"><img src="https://img.shields.io/badge/-Sam-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samuelmodesto"><img src="https://img.shields.io/badge/-Samuel Modesto-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
 
 - 🚩 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
