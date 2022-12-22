@@ -21,29 +21,33 @@
  
   </div>
   
-  <details>
-           <summary><b>👤 About</b></summary>
-             <p>
-               <img align="right" width="250" src="" />
+<!-- Sobre Section -->
+<details>
+  <summary><b>👤 Sobre</b></summary>
+    <p>
+      <img align="right" width="250" src="https://github.com/SamuelModesto/SamuelModesto/blob/main/Assets/SamuelPicture.jpeg"/>
+      
+<blockquote>
 
-       
-
-         Eu sou um engenheiro de software brasileiro e gosto muito de escrever código.
+Eu sou um engenheiro de software brasileiro e gosto muito de escrever código.
             
-         Gosto de resolver problemas com código e de buscar novas técnicas de construção
-         de softwares, como padrões de projetos e padrões arquiteturais.
+Gosto de resolver problemas com código e de buscar novas técnicas de construção
+de softwares, como padrões de projetos e padrões arquiteturais.
            
-         Tenho um homelab com um servidor e algumas bugigangas como Raspberry Pi e arduíno, 
-         dessa forma eu aproveito para me divertir e aprender construindo projetos legais.
+Tenho um homelab com um servidor e algumas bugigangas como Raspberry Pi e arduíno, 
+dessa forma eu aproveito para me divertir e aprender construindo projetos legais.
             
-         Quando não estou atrás de um computador, eu gosto de tocar instrumentos musicais,
-         passear com a minha namorada, conhecer novas culturas e comidas típicas de cada região.        
+Quando não estou atrás de um computador, eu gosto de tocar instrumentos musicais,
+passear com a minha namorada, conhecer novas culturas e comidas típicas de cada região.  
 
+</blockquote>
     
-         ----
-
-           </p>
+----
+  
+  </p>
 </details>
+
+
   
 
 - 🚩 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
