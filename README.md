@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
    Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'> Eu sou o Samuel.
 </h1>
