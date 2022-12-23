@@ -23,7 +23,7 @@
   
 <!-- Sobre Section -->
 <details>
-  <summary><b>👤 Sobre</b></summary>
+  <summary><b>🙋‍♂️ Sobre mim </b></summary>
     <p>
       <img align="right" width="250" src="https://github.com/SamuelModesto/SamuelModesto/blob/main/Assets/SamuelPicture.jpeg"/>
       
@@ -49,7 +49,7 @@ passear com a minha namorada, conhecer novas culturas e comidas típicas de cada
 
 <!-- Tech Stack -->  
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>🛠️ Tecnologias</b></summary>
     <p>
 
 | **Category** | **Technologies** |
@@ -69,14 +69,27 @@ passear com a minha namorada, conhecer novas culturas e comidas típicas de cada
   </p>
 </details>
 
-
-  
+<!-- Career Section -->
+<details>
+  <summary><b>💼 Carreira </b></summary>
+    <p>
+           
+<blockquote>
 
 - 🚩 MOMENTO ATUAL: Estou trabalhando em Java com Spring Framework e micro-serviços.
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
 - 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com Java (Spring Framework) e Python  além  de  brincar com Flutter na horas vagas para me divertir, um framework realmente incrível para criação de aplicativos mobile.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
 - 🎯 UM OBJETIVO: Fazer 1000 contribuições no github em 2022.
+
+</blockquote>
+    
+----
+  
+  </p>
+</details>
+
+
 
 
 
