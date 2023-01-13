@@ -35,7 +35,7 @@ de softwares, como padrões de projetos e padrões arquiteturais.
 Tenho um homelab com um servidor e algumas bugigangas como Raspberry Pi e arduíno, 
 dessa forma eu aproveito para me divertir e aprender construindo projetos legais.
             
-Quando não estou atrás de um computador, eu gosto de tocar instrumentos musicais,
+Quando não estou na frente de um computador, eu gosto de tocar instrumentos musicais,
 passear com a minha namorada, conhecer novas culturas e comidas típicas de cada região.  
 
 </blockquote>
