@@ -78,7 +78,7 @@ passear com a minha namorada, conhecer novas culturas e comidas típicas de cada
 - 💡 TÓPICOS DE INTERESSE:  Padrões de projeto, arquiteturas, desafios, novas técnicas de desenvolvimento de software, entrevistas de codificação.
 - 🌱 APRENDIZADO: Estou estudando diferentes padroes para Arquitetura de micro-serviços com Java (Spring Framework) e Python  além  de  brincar com Flutter na horas vagas para me divertir, um framework realmente incrível para criação de aplicativos mobile.
 - 💬 PERGUNTE-ME: Sobre Desenvolvimento de software e micro-serviços.
-- 🎯 UM OBJETIVO: Fazer 1000 contribuições no github em 2022.
+- 🎯 UM OBJETIVO: Fazer 1000 contribuições no github em 2023.
 
 </blockquote>
     
