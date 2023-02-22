@@ -52,15 +52,14 @@ passear com a minha namorada, conhecer novas culturas e comidas típicas de cada
 
 | **Category** | **Technologies** |
 | - | - |
-**Frontend** | ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)
+**Frontend** | ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF) 
 **Backend** |[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/)  <br>
 **DBs** | ![HTML](https://img.shields.io/static/v1?label=&message=Postgresql&color=316192&logo=postgresql&logoColor=FFFFFF) ![HTML](https://img.shields.io/static/v1?label=&message=Mysql&color=8b1df2&logo=mysql&logoColor=FFFFFF) ![HTML](https://img.shields.io/static/v1?label=&message=MongoDB&color=4EA94B&logo=mongodb&logoColor=FFFFFF)
 **Cloud** | [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) ![HTML](https://img.shields.io/static/v1?label=&message=Amazon_AWS&color=232F3E&logo=amazon-aws&logoColor=FFFFFF)
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&logo=circleci&logoColor=FFFFFF)](https://circleci.com/)
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Frameworks** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) 
-
+**Frameworks** | [![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6CB52D&logo=spring&logoColor=FFFFFF)](https://spring.io/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) 
 
 ----      
 
