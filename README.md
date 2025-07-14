@@ -1,5 +1,5 @@
 <h1 align="center">
-   Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'> Eu sou o Samuel.
+   Olá mundo! <img src='https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/wave.gif' height='26' alt='there'>
 </h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://github.com/SamuelModesto/Assets/blob/master/Gifs%20Perfil/dev-working_rounded.gif" alt="working developer">
